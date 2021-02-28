@@ -4,8 +4,7 @@
     "description": "Gamepad fpr Calliope",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
